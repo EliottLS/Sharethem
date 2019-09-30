@@ -1,0 +1,19 @@
+.jumbotron{
+    background-image: url("Clothing.jpg");
+    height: 480px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 40px;
+}
+
+.card-footer{
+    text-align: center;
+}
+
+.card-deck {
+    padding-bottom: 40px;
+}
+.row{
+    padding: 40px;
+}
